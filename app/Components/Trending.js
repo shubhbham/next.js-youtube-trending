@@ -61,6 +61,7 @@ export default function Home() {
 
   const handleTypeChange = (event, videoId) => {
     event.preventDefault();
+    setSelectedType(event.target.value);
     setSelectedVideoId(videoId);
   };
 
