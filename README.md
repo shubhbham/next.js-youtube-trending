@@ -21,7 +21,7 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## Images of YT trending .........
 
 <img width="944" alt="Screenshot 2023-11-18 115057" src="https://github.com/shubhbham/next.js-youtube-trending/assets/90957217/38a40b19-e4ee-4b8b-9282-80cb57134228">
 <br>
